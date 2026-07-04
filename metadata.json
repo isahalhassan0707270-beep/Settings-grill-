@@ -1,0 +1,6 @@
+{
+  "name": "settings grill",
+  "description": "Bold, smoky street-food meets premium grilling. Legend-tier Stick Suya, Grilled Chicken, and Catfish delivered hot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
